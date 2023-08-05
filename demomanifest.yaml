@@ -4,7 +4,7 @@ metadata:
   name: nginx-deployment
   namespace: staging
   labels:
-    app: nginx
+    app: ngin
 spec:
   replicas: 1
   selector:
